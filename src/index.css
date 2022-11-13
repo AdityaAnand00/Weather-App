@@ -1,6 +1,17 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+ /* background: linear-gradient(to right, #0f0c29, #302b63, #24243e); */
+ /* background-image: linear-gradient(to right, #870000, #190a05); */
+ background-image: url("/public/icon/thunder.jpg");
+ /* background-image: url("https://cdn.pixabay.com/photo/2016/10/25/12/28/thunderstorm-1768742__340.jpg"); */
+
+ 
+ background-size: 1600px 725px;
+ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;

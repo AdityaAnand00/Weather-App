@@ -1,0 +1,3 @@
+whenever , the value would be given in the search box / value will  be change in the searchbox ,  for that value(value is cityName ) we need to maintain two things ,that is city name should  passed further and for it the resppective weather could be fetched. so we will create 2 react usetate() hooks . 
+reacthook 1 : "city , updatecity" :- this value we will be passing / sending request for 
+reacthook 2 : "weather , updateweather" :- this value we will be getting back from the api . 
